@@ -57,6 +57,10 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 ![](https://streak-stats.demolab.com/?user=JoseLuisArce&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoseLuisArce&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://github.com/JoseLuisArce/JoseLuisArce">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=github_dark&hide_border=true)](https://github.com/JoseLuisArce" alt="Jose's GitHub Stats Graph"/>
+</a>
+
 ## Connect with me 
 
  <a href="https://www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
