@@ -1,7 +1,7 @@
 <img src="https://as1.ftcdn.net/jpg/13/69/82/14/1000_F_1369821450_fO28oUlGCGakvQMEaaqQ6AmxqFFOxuIa.jpg" width ="100%">
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Crafting+Intelligent+Solutions+for+Tomorrow;Bridging+the+Gap+Between+Human+Ideas+and+Machine+Intelligence" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Banking+and+Insurance+Professional;.+.+.+Passionate+About+AI+Solutions"/></a>
 </p>
 
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
@@ -12,7 +12,10 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 
 
 ## ✨ Quick Facts:
-🔭 I'm currently working on AI Solution Development Standard and enterprise AI portfolio projects.<br>🌱 I'm currently learning Agentic AI Systems, RAG architectures, and AI Product Engineering.<br>💬 Ask me about Banking Operations, Insurance Claims, Enterprise Chatbots, and AI Solution Development.
+🌱 I'm currently working on AI Solution Development Standard and enterprise AI portfolio projects.<br>
+🤖 I'm constantly learning about Agentic AI Systems, RAG architectures, and AI Product Engineering.<br>
+💬 Ask me about Banking Operations, Insurance Claims, Enterprise Chatbots, and AI Solution Development.<br>
+😎 I'm a father of twins and a lifelong learner passionate about solving business problems with AI.
 
 ## 💻 Tech Stack:
 
