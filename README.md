@@ -1,5 +1,9 @@
 <img src="https://as1.ftcdn.net/jpg/13/69/82/14/1000_F_1369821450_fO28oUlGCGakvQMEaaqQ6AmxqFFOxuIa.jpg" width ="100%">
-<br />
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Crafting+Intelligent+Solutions+for+Tomorrow;Bridging+the+Gap+Between+Human+Ideas+and+Machine+Intelligence" /></a>
+</p>
+
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 
 <p> 
@@ -48,17 +52,10 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
     ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
     ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   
-</p>
-
-<br> 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=JoseLuisArce&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=JoseLuisArce&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoseLuisArce&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<a href="https://github.com/JoseLuisArce/JoseLuisArce">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</a>
 
 ## Connect with me 
 
