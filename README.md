@@ -59,7 +59,7 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 
 ## Connect with me 
 
- <a href="https://linkedin.com/in/www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
+ <a href="https://www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom:5px;" />
 </a>
  <a href="https://discord.gg/jac_ai_dp" target="_blank">
