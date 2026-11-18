@@ -1,7 +1,7 @@
 <img src="https://as1.ftcdn.net/jpg/13/69/82/14/1000_F_1369821450_fO28oUlGCGakvQMEaaqQ6AmxqFFOxuIa.jpg" width ="100%">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Banking+and+Insurance+Professional;.+.+.+Passionate+About+AI+Solutions"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Banking+and+Insurance+Professional;.+.+.+Passionate+About+AI+Solutions+!"/></a>
 </p>
 
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
