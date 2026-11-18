@@ -80,24 +80,6 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-
-<p align="center">
-<a href="https://github.com/JoseLuisArce/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseLuisArce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
- 
-<a href="https://github.com/JoseLuisArce">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseLuisArce&theme=blueberry" width="380"/>
-</a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/JoseLuisArce"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=tokyonight&hide_border=true"  width="520" alt="JoseLuisArce"/></a>
-<a href="https://github.com/JoseLuisArce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="JoseLuisArce"/></a>
-</p>
-
 ## Connect with me 
 
  <a href="https://linkedin.com/in/www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
