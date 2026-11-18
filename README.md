@@ -1,4 +1,4 @@
-<img src="https://as2.ftcdn.net/jpg/22/33/64/79/1000_F_2233647940_BOWoaTWlkohcfzEMNDenzjLJKz5xAVNf.jpg" width ="100%">
+<img src="https://as1.ftcdn.net/jpg/13/69/82/14/1000_F_1369821450_fO28oUlGCGakvQMEaaqQ6AmxqFFOxuIa.jpg" width ="100%">
 <br />
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 
@@ -85,19 +85,19 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 
 <p align="center">
 <a href="https://github.com/JoseLuisArce/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmardeepKesharwani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose_Arce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
 <a href="https://github.com/JoseLuisArce">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmardeepKesharwani&theme=blueberry" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseLuisArce&theme=blueberry" width="380"/>
 </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-    <a href="https://github.com/JoseLuisArce"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
-<a href="https://github.com/JoseLuisArce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
+    <a href="https://github.com/JoseLuisArce"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=tokyonight&hide_border=true"  width="520" alt="Jose_Arce"/></a>
+<a href="https://github.com/JoseLuisArce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Jose_Arce"/></a>
 </p>
 
 ## Connect with me 
