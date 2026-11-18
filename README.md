@@ -1,18 +1,14 @@
- <img src="https://cibertecedu-my.sharepoint.com/my?viewid=298095b1%2Da15d%2D4ad0%2Da8ba%2D520da961303e&id=%2Fpersonal%2Fx202326701%5Fcibertec%5Fedu%5Fpe%2FDocuments%2Fbanner1%2Ejpg&parent=%2Fpersonal%2Fx202326701%5Fcibertec%5Fedu%5Fpe%2FDocuments" width ="100%">
+<img src="https://t4.ftcdn.net/jpg/08/29/92/35/240_F_829923583_Q9qvQUSqXo0URtHNzwwFqU0H0ByKXz1Y.jpg" width ="100%">
 <br />
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 
 <p> 
 I am Jose Arce, Professional with 10+ years of experience in Banking and Insurance Operations. Transitioning into AI Engineering through the development of enterprise AI solutions, AI governance practices, RAG architectures and AI product initiatives.
 </p>
 
 
-# 💫 About Me:
+# ✨ Quick Facts:
 🔭 I'm currently working on AI Solution Development Standard and enterprise AI portfolio projects.<br>🌱 I'm currently learning Agentic AI Systems, RAG architectures, and AI Product Engineering.<br>💬 Ask me about Banking Operations, Insurance Claims, Enterprise Chatbots, and AI Solution Development.
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jac_ai_dp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jose-luis-arce-carrasco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joseluis.arce.car@gmail.com) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -108,25 +104,12 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 
 ## Connect with me 
 
-<a href="https://www.instagram.com/anuj_kesharwani_/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+ <a href="https://linkedin.com/in/www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom:5px;" />
 </a>
- <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
+ <a href="https://discord.gg/jac_ai_dp" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.sololearn.com/Profile/9151475/?ref=app" target="_blank">
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
-</a>   
-
- <!--
-  <a href="https://linkedin.com/in/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ <a href="mailto:joseluis.arce.car@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>   
--->      
