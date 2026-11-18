@@ -56,16 +56,15 @@ I am Jose Arce, Professional with 10+ years of experience in Banking and Insuran
 ![](https://github-readme-stats.shion.dev/api?username=JoseLuisArce&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=JoseLuisArce&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoseLuisArce&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <a href="https://github.com/JoseLuisArce/JoseLuisArce">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=github_dark&hide_border=false)](https://github.com/JoseLuisArce" alt="Jose's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLuisArce&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a>
 
 ## Connect with me 
 
- <a href="https://www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
+<a href="https://www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom:5px;" />
 </a>
- <a href="mailto:joseluis.arce.car@gmail.com" target="_blank">
+<a href="mailto:joseluis.arce.car@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
