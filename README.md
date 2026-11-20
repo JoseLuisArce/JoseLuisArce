@@ -40,9 +40,9 @@ A practical AI Engineering portfolio project focused on helping banking operatio
 
 **AI & Cloud**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Power Virtual Agents](https://img.shields.io/badge/Power_Virtual_Agents-742774?style=flat&logo=microsoftpowerapps&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Programming & Data**
 
