@@ -2,71 +2,101 @@
   <img src="./GH-banner.png" width="100%">
 </p>
 
+<!-- Animated professional headline -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Banking+and+Insurance+Professional;.+.+.+Passionate+About+AI+Solutions+!"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=22&center=true&vCenter=true&width=650&lines=AI+Solutions+Engineer;Banking+%26+Insurance;Enterprise+AI+Solutions" alt="Professional headline" />
 </p>
 
-<h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
+<h1 align="center">Hi there! Welcome to my GitHub profile 👋</h1>
 
-<p> 
-I am Jose Arce, Professional with 10+ years of experience in Banking and Insurance Operations. Transitioning into AI Engineering through the development of enterprise AI solutions, AI governance practices, RAG architectures and AI product initiatives.
+# José Luis Arce
+
+**AI Solutions Engineer | Banking & Insurance**
+
+I combine **10+ years in banking and insurance operations** with training in Business Intelligence, Data Science, Microsoft Azure, and AI solution development.
+
+My focus is designing business-oriented AI solutions for enterprise environments where reliable information, controlled knowledge sources, human oversight, and measurable business value matter.
+
+## 💼 Professional Experience
+
+My background includes banking operations, customer service, banking complaints, insurance claims, and administrative processes.
+
+One of my most relevant experiences was creating and operating an internal administrative-procedures chatbot using **Power Virtual Agents, Excel, SharePoint, and Power BI**.
+
+Deployed to approximately **3,000 bank employees**, it became an internal information channel. My responsibilities included organizing procedural knowledge, coordinating content updates, managing modification access, monitoring usage, and reporting results to management.
+
+## 🚀 Featured Projects
+
+### AI Solution Development Standard
+
+A business-first, documentation-first, cloud-agnostic framework for structuring AI initiatives before implementation.
+
+It provides a foundation for business discovery, requirements, solution design, authorized knowledge sources, human oversight, evaluation, and project readiness.
+
+**Status:** `v0.1.0-draft` — Ready for practical validation with conditions.
+
+### Internal Banking Operations Copilot
+
+A practical AI Engineering portfolio project focused on helping banking operations teams retrieve operational requirements and documentation through a controlled knowledge assistant.
+
+**Status:** Business discovery and planning.
+
+## 🛠️ Technical Skills
+
+**AI & Cloud**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power Virtual Agents](https://img.shields.io/badge/Power_Virtual_Agents-742774?style=flat&logo=microsoftpowerapps&logoColor=white)
+
+**Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Development Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- AI-assisted development
+- Specification-Driven Development
+- Prompt and workflow design
+
+**Currently strengthening:** Software architecture, API development, RAG systems, AI evaluation, automated testing, authentication, authorization, and cloud deployment.
+
+## 🧭 Engineering Approach
+
+**Build the right solution before optimizing how to build it.**
+
+I start with the business problem, users, available evidence, authorized knowledge sources, expected outcomes, and risks before selecting models or technologies.
+
+My priorities:
+- Business value over technology trends.
+- Deterministic logic for fixed rules and authoritative calculations.
+- AI where interpretation creates measurable value.
+- Human oversight for high-impact decisions.
+- Evaluation, traceability, and operational reliability.
+
+## 🎯 Career Objective
+
+I aim to contribute as an **AI Solutions Engineer**, combining business domain knowledge and AI engineering to design and build practical, reliable, and responsible enterprise solutions, particularly in banking, insurance, and other information-sensitive environments.
+
+## 📜 Certifications
+
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jose-luis-arce-carrasco">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joseluis.arce.car@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-
-## ✨ Quick Facts:
-🌱 I'm currently working on AI Solution Development Standard and enterprise AI portfolio projects.<br>
-🤖 I'm constantly learning about Agentic AI Systems, RAG architectures, and AI Product Engineering.<br>
-💬 Ask me about Banking Operations, Insurance Claims, Enterprise Chatbots, and AI Solution Development.<br>
-😎 I'm a father of twins and a lifelong learner passionate about solving business problems with AI.
-
-## 💻 Tech Stack:
-
-
-- 📋 Languages: 
-    
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-    
-- ☁️ Cloud Platforms:
-
-   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-    
-- 💾 Databases:
-
-    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  
-    
-    
-- 🎛️ Applications and Tools:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-    ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-    ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## Connect with me 
-
-<a href="https://www.linkedin.com/in/jose-luis-arce-carrasco" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom:5px;" />
-</a>
-<a href="mailto:joseluis.arce.car@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" />
-</a>
+🌎 **Languages:** Spanish (Native) | English (Technical reading and ongoing professional development)
