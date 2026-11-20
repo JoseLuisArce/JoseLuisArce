@@ -2,18 +2,13 @@
   <img src="./GH-banner.png" width="100%">
 </p>
 
-<!-- Animated professional headline -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=22&center=true&vCenter=true&width=650&lines=AI+Solutions+Engineer;Banking+%26+Insurance;Enterprise+AI+Solutions" alt="Professional headline" />
 </p>
 
 <h1 align="center">Hi there! Welcome to my GitHub profile 👋</h1>
 
-# José Luis Arce
-
-**AI Solutions Engineer | Banking & Insurance**
-
-I combine **10+ years in banking and insurance operations** with training in Business Intelligence, Data Science, Microsoft Azure, and AI solution development.
+I am Jose Luis Arce, a professional combining 10+ years in banking and insurance operations with training in Business Intelligence, Data Science, Microsoft Azure, and AI solution development.
 
 My focus is designing business-oriented AI solutions for enterprise environments where reliable information, controlled knowledge sources, human oversight, and measurable business value matter.
 
